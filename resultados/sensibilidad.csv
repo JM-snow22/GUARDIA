@@ -1,0 +1,8 @@
+﻿Escenario,Estado,Costo total (USD),Turnos externos
+Base,Optimal,6380,8
+Noche +10 % ($220),Optimal,6580,8
+Todas las tarifas +10 %,Optimal,7018,8
+Prima externa 25 %,Optimal,6140,8
+Prima externa 100 %,Optimal,6860,8
+Ausencia de 1 profesional (7),Optimal,6620,12
+Cobertura noche = 3,Optimal,7680,13

@@ -1,0 +1,9 @@
+﻿Profesional,Día 1,Día 2,Día 3,Día 4,Día 5,Turnos,Noches,Costo (USD)
+k1,t3 (Noche),t5 (Tarde),t8 (Tarde),t10 (Mañana),t13 (Mañana),5,1,720
+k2,t1 (Mañana),t6 (Noche),t8 (Tarde),t10 (Mañana),t15 (Noche),5,2,780
+k3,t2 (Tarde),t4 (Mañana),t8 (Tarde),t12 (Noche),t14 (Tarde),5,1,740
+k4,t2 (Tarde),t6 (Noche),t9 (Noche),t11 (Tarde),t14 (Tarde),5,2,820
+k5,t3 (Noche),t5 (Tarde),t7 (Mañana),t10 (Mañana),t13 (Mañana),5,1,700
+k6,t1 (Mañana),t4 (Mañana),t9 (Noche),t11 (Tarde),t13 (Mañana),5,1,700
+k7,t1 (Mañana),t4 (Mañana),t7 (Mañana),t12 (Noche),t14 (Tarde),5,1,700
+k8,t2 (Tarde),t5 (Tarde),t7 (Mañana),t11 (Tarde),t15 (Noche),5,1,740
