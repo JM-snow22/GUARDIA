@@ -1,0 +1,8 @@
+# Versiones probadas. PuLP 2.9 incluye el solver CBC (no requiere instalar nada más).
+pulp==2.9.0
+highspy>=1.7
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+streamlit>=1.48
+altair>=5.0
