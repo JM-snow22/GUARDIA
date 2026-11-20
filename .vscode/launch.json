@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "1. Modelo completo", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/run.py", "args": ["1"], "console": "integratedTerminal", "cwd": "${workspaceFolder}" },
+    { "name": "2. Interfaz web", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/run.py", "args": ["2"], "console": "integratedTerminal", "cwd": "${workspaceFolder}" },
+    { "name": "3. Módulo de IA", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/run.py", "args": ["3"], "console": "integratedTerminal", "cwd": "${workspaceFolder}" },
+    { "name": "4. Pruebas", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/run.py", "args": ["4"], "console": "integratedTerminal", "cwd": "${workspaceFolder}" }
+  ]
+}
